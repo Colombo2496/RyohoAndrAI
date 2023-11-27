@@ -1,4 +1,4 @@
-# YogaAndrAI
+# YogAI
 An Gen AI that is trained on Yoga practice. This AI aims at helping Ryoho Yoga detect what yoga poses, diet nutrition and meridian massages are recommended for a specific circumstance of the patient.
 
 The Project is divided onto 3 parts:
